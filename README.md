@@ -1,7 +1,8 @@
-# 👋 Seja bem-vindo(a) ao meu GitHub!
+# 👋 Seja bem-vindo(a) ao repositório de Treinamento!
+
+🔧 *Este repositório está em construção...*
 
 ## 🎯 Testes Automatizados e Manuais | K6 | Postman | Mocha/Chai | JMeter | APIs REST | Scrum & Kanban
-
 
 ---
 
@@ -11,10 +12,6 @@ Estudante de desenvolvimento full stack com conhecimentos teóricos e práticos 
 Também tive contato com ferramentas e práticas de gestão de testes, como Jira, Zephyr e BDD, além de realizar testes exploratórios em ambientes desktop e Android.
 
 ![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-232F3E?logo=amazonaws&logoColor=FF9900)
-
-
-
-
 
 ---
 
@@ -29,20 +26,9 @@ Também tive contato com ferramentas e práticas de gestão de testes, como Jira
 📝 Práticas de Testes: BDD (Behavior Driven Development)  
 💻 Linguagens e Frameworks: JavaScript (Mocha, Chai, Cypress)
 
-
 ---
 
-
-## 📂 Projetos em Destaque
-
-🔧 Em construção...
-
----
-
-## 📫 Contato
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/eli-santos-61a71031a/)
-- 📧 Email: *(adicione aqui se quiser deixar público)*
+## 🔙 [Voltar para o perfil principal do GitHub](https://github.com/EliSidneypb)
 
 ---
 
