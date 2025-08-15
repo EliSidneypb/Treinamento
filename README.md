@@ -30,6 +30,11 @@ Também tive contato com ferramentas e práticas de gestão de testes, como Jira
  - **Fluxo/**
   - [🔗 Login - Usuários - Produtos - carrinhos - Parte 1](https://www.youtube.com/watch?v=QDy8ZcfStZ8)
   - [🔗 Login - Usuários - Produtos - carrinhos - Parte 2](https://www.youtube.com/watch?v=HNZEo0Q1Psk)
+  - 
+📁 **HTML-CSS-JS/**
+
+  - [🔗 Projeto HTML-CSS-JS](https://github.com/EliSidneypb/HTML-CSS-JAVASCRIPT)
+
 
 ## 🛠️ Tecnologias e Ferramentas
 
