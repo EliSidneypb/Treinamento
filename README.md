@@ -26,6 +26,12 @@ Também tive contato com ferramentas e práticas de gestão de testes, como Jira
 
   - [🔗 Projeto HTML-CSS-JS](https://github.com/EliSidneypb/HTML-CSS-JAVASCRIPT)
 
+📁 **Cypress - Tela Login/**
+
+  - [🔗 Projeto Cypress](https://github.com/EliSidneypb/Cypress)
+
+
+
 
 ## 🛠️ Tecnologias e Ferramentas
 
